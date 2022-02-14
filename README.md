@@ -1,4 +1,4 @@
-# mi_card
+# dicee
 
 A Flutter project.
 
